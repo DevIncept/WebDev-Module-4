@@ -9,3 +9,9 @@
 6. Part-6: [NodeJS Functions And Buffer](Part-6-NodeJS_Functions_And_Buffer.md)
 7. Part-7: [NodeJS Process Model](Part-7-NodeJS_process__model.md)
 8. Part-8: [Advantages Of NodeJS](Part-8-NodeJS_Advantages.md)
+9. **Group Project :** As directed on slack *(Optional)*
+
+
+10. **[Make your Portfolio](https://github.com/DevIncept/Portfolio)** *Optional*
+
+11. **Quiz** Link will be shared    *(Mandatory)*
